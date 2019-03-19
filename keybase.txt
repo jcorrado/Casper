@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/jereme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://goldandapager.io
+  * I am jereme (https://keybase.io/jereme) on keybase.
+  * I have a public key with fingerprint 195B 5963 F8AC BD5B AB58  3AB5 2A94 6D7D C9CB 2D74
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010155163132c9e7083c638f25b840f6b3fc67419a46af413ee4ce7cf40fa1e9867e0a",
+      "fingerprint": "195b5963f8acbd5bab583ab52a946d7dc9cb2d74",
+      "host": "keybase.io",
+      "key_id": "2a946d7dc9cb2d74",
+      "kid": "010155163132c9e7083c638f25b840f6b3fc67419a46af413ee4ce7cf40fa1e9867e0a",
+      "uid": "6bc928d7ab09cb8f71f1bf76c09c3f19",
+      "username": "jereme"
+    },
+    "service": {
+      "hostname": "goldandapager.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1530803759,
+  "expire_in": 157680000,
+  "prev": "07737e4101a83a86cc6cb03d046993e1bbf300af422ed78d93a12f8a27fa66f8",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltsDUEYPsclrdO0qWuUI1h9EGlkZmd3Zve4ReKWNC11i7bhmJmdPVZr9zhn
+HUqaoglB6hIicWkpRYKIhD4gSCM5hEg8IC4lrhH6gNBEhDBblyeP5mEu///93///
+3/w783uHIuFNkx4P3fHhyejwrbcsVD0Z6+sU5ll1SmydUiN6DlFribQfr3EsJaYA
+CKCuQ4wgUrkpCDAQx8iwVZ0ZGrAxQzbHRIMm1TC1NYiE0Lgg3JZOCoVpYCIAVUoU
+23ETIpVMOa4vaaGpM93EyDYoZ5bOKNMNJDeVmhq2iMVNzlSLaDJwmZcOImRxjKbF
+eMeTNvmI95T3D/x/rntVDx1m3FQNi1AGZCbDJtCGzCaYyyeyoRkA0yLl0hVCopeL
+lJCX+hJF2jIOF4GsQR+//Qmv1qKuRZNUSvKro2TK8z3u1UrvMt9PpmNBtF+XDOCr
+BYv/Joozx7WkkjIiI1Jpx3OVGJRI7jsBM9QRMAAiulmiiDVJJyXiToDQCTaAXEEe
+kQnkIQSRKqFJlagU3sCcY84AsoCGTRMJyJiNAJDKqKqwiGGZiEJV/pZKbIqxbShB
+bytdT4npsk6akJxpJ+FSf1VKNh7ZEkZ9QuFIaMSQ0X0cpSD0MnfA+ItdRuGf6evb
+Kxi9UKTfXwuYlvOj8mvT1DEZq6Tp7LFG0P9B+HxbUbaoYRRdenFPXlkb2Fo668T3
+b1f2vqu+ue/F07LGpqO7K92WKf68S23bn9/OzKmJZsErWF5wp3rt9eKvdweczlkY
+yz/UkDsjZ/DcR9feTOs2K2demk/OLI2OE4sKhk9YcK+zOFP+Zcji4sNlr6Ndiza2
+jvqSW13zbcWgOq3xxsOmwmxC5B1xYGdhyznc+uPgtZGnrmaVSGu4Y8m+/InZ6XzD
+x+72/Q9zjye2PX42cv7QTPPlk/FPzsDOont30uqEbcM2N+zsat4/2688UFX/3j3U
++3Npa0dpe//6fts7Lo+NLl5w4fau+xUFw2vXl8/aPTtqVfwE
+=kys2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jereme
+
+==================================================================

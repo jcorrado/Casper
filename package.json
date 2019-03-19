@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "casper-jereme",
+    "description": "The default personal blogging theme for Ghost, plus local mods.",
     "demo": "https://demo.ghost.io",
     "version": "2.9.5",
     "engines": {
